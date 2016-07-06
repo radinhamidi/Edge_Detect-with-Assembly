@@ -1,0 +1,2 @@
+Dependencies for Project 'TEST0', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.s)(0x54BCAA53)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x --list "main.lst" --xref -o "main.o" --depend "main.d")
